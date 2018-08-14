@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+    <div class="row px-5 py-4 h-100">
+        <div class="w-100 w-lg-50 d-flex align-items-start flex-column">
+            <div class="logo mb-auto text-primary pb-6">
+            	<div class="d-flex">
+	                <div>
+	                	<div class="h1 mb-0">D<br/>D</div> 
+	                </div>
+	                <div class="text-secondary text-center swing">
+	                	<div class="h1 mb-0">I<br/>O</div> 
+	                </div>
+	                <div>
+	                	<div class="h1 mb-0">N<br/>N</div> 
+	                </div>
+	                <div>
+	                	<div class="h1 mb-0">G<br/>G</div> 
+	                </div>
+            	</div>
+            	<div class="text-secondary tagline">
+            		Des artistes et des horloges <br/> en ville de Neuchâtel
+            	</div>
+            </div>
+            <nav class="text-uppercase mt-5 d-none d-lg-block">
+            	{% for my_page in site.pages %}
+            	  {% if my_page.title %}
+            	  <h1><a class="{% if page.url == my_page.url %}text-secondary{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></h1>
+            	  {% endif %}
+            	{% endfor %}
+
+                <a href="https://www.neuchatelville.ch/fr/" class="my-4 d-block">
+                	<img src="/assets/logos/neuchatel.svg" width="140" alt="Ville de Neuchatel">
+                </a>
+            </nav>
+        </div>
+        <div class="w-100 w-lg-50 mb-5">
+            {{ content }}
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,47 @@
+---
+---
+@charset "utf-8";
+@import 'bootstrap/bootstrap';
+
+
+@font-face {
+    font-family: 'BrownPro-Regular';
+    src: url('../assets/fonts/brown/BrownPro-Regular.eot#iefix') format('embedded-opentype'), 
+    url('../assets/fonts/brown/BrownPro-Regular.otf') format('opentype'),
+    url('../assets/fonts/brown/BrownPro-Regular.woff') format('woff'), 
+    url('../assets/fonts/brown/BrownPro-Regular.ttf') format('truetype'), 
+    url('../assets/fonts/brown/BrownPro-Regular.svg#BrownPro-Regular') format('svg');
+    
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	height:100vh;
+}
+
+p {
+	color: #FF0000;
+}
+
+nav {
+	bottom: 0px;
+}
+
+.swing {
+    animation: swing ease-in-out 1s infinite alternate;
+    transform-origin: center -20px;
+    float:left;
+}
+
+@keyframes swing {
+    0% { transform: rotate(13deg); }
+    100% { transform: rotate(-13deg); }
+}
+
+.tagline {
+	 transform: rotate(-15deg);
+	 margin-left: 9rem;
+}
+
+
