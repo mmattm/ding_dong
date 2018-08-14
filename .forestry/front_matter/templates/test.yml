@@ -6,3 +6,5 @@ fields:
 - type: text
   label: test
   name: test
+pages:
+- test.md
