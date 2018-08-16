@@ -1,5 +1,9 @@
 ---
 title: Projet
+menu:
+  header:
+    weight: 2
+    title: ''
 
 ---
 La direction du Tourisme, sous l’impulsion de plusieurs hôteliers de la Ville, propose aux commerces, entreprises et institutions de la région de participer à un projet visant à faire (re)découvrir la Ville et son centre aux habitants et aux touristes. L’idée consiste à agrémenter les rues de la ville, entre mai et septembre, de statues en forme d’horloge neuchâteloise. Aux acquéreurs de les faire personnaliser à leurs goûts.
