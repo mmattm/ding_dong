@@ -27,15 +27,14 @@ sass:
 defaults:
   -
     scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"
+  -
+    scope:
       path: ""
       type: "pages"
     values:
       layout: "default"
-  # -
-  #   scope:
-  #     path: "pages"
-  #     type: "pages"
-  #   values:
-  #     layout: "default"
-  #     permalink: :title/
 
