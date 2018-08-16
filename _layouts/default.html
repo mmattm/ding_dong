@@ -45,11 +45,11 @@
             	</div>
             </div>
             <nav class="text-uppercase mt-5 d-none d-lg-block">
-            	{% for my_page in site.pages %}
-            	  {% if my_page.title %}
-            	  <h1 class="text-uppercase"><a class="{% if page.url == my_page.url %}text-secondary{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></h1>
-            	  {% endif %}
-            	{% endfor %}
+
+                {% for item in site.menus.header %}
+                <h1 class="text-uppercase"><a class="{% if page.url == item.url %}text-secondary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
+                {% endfor %}
+
 
                 <a href="https://www.neuchatelville.ch/fr/" class="my-4 d-block">
                 	<img src="/css/assets/logos/neuchatel.svg" width="140" alt="Ville de Neuchatel">

@@ -1,6 +1,6 @@
 ---
 title: Objectif
-permalink: "/objectif/"
+menus: header
 
 ---
 Objectif texte
