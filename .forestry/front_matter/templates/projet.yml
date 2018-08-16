@@ -2,6 +2,9 @@
 label: Projet
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
 pages:
 - test-2.md
