@@ -2,14 +2,6 @@
 label: Projet
 hide_body: false
 is_partial: false
-fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
-- type: text
-  name: permalink
-  label: Permalink
+fields: []
 pages:
 - test2.md
