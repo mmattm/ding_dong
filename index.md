@@ -1,5 +1,5 @@
 ---
-title: Projet-homepage
+title: Projet
 menu:
   header:
     weight: 2
