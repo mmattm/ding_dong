@@ -1,5 +1,5 @@
 ---
-title: Objectif-test
+title: Objectif
 menu:
   header:
     weight: 3
