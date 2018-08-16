@@ -1,9 +1,5 @@
 ---
 title: Objectif
-menu:
-  header:
-    weight: 1
-    title: Objectif2
 
 ---
 Objectif texte
