@@ -34,3 +34,11 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+  # -
+  #   scope:
+  #     path: "pages"
+  #     type: "pages"
+  #   values:
+  #     layout: "default"
+  #     permalink: :title/
+
