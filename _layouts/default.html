@@ -3,9 +3,29 @@
 {% include head.html %}
 
 <body>
-    <div class="row px-5 py-4 h-100">
-        <div class="w-100 w-lg-50 d-flex align-items-start flex-column">
-            <div class="logo mb-auto text-primary pb-6">
+    <div class="row px-4 py-4 h-100 m-0">
+        <div class="w-100 w-lg-50 d-flex align-items-start flex-column position-relative">
+
+        	<div class="collapse" id="navbarToggleExternalContent">
+        	  <div class=" pb-4">
+        	    {% for my_page in site.pages %}
+        	      {% if my_page.title %}
+        	      <h3 class="text-uppercase"><a class="{% if page.url == my_page.url %}text-secondary{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></h3>
+        	      {% endif %}
+        	    {% endfor %}
+        	  </div>
+        	</div>
+
+
+        	<div class="position-absolute d-block d-lg-none w-100">
+        	  <nav class="navbar float-right navbar-light m-0 p-0">
+        	    <button class="navbar-toggler text-primary p-0 border-0 custom-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+        	      Menu <span class="navbar-toggler-icon"></span>
+        	    </button>
+        	  </nav>
+        	</div>
+
+            <div class="logo mb-auto text-primary w-100 pb-6">
             	<div class="d-flex">
 	                <div>
 	                	<div class="h1 mb-0">D<br/>D</div> 
@@ -27,7 +47,7 @@
             <nav class="text-uppercase mt-5 d-none d-lg-block">
             	{% for my_page in site.pages %}
             	  {% if my_page.title %}
-            	  <h1><a class="{% if page.url == my_page.url %}text-secondary{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></h1>
+            	  <h1 class="text-uppercase"><a class="{% if page.url == my_page.url %}text-secondary{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></h1>
             	  {% endif %}
             	{% endfor %}
 
@@ -39,6 +59,17 @@
         <div class="w-100 w-lg-50 mb-5">
             {{ content }}
         </div>
+
+        <a href="https://www.neuchatelville.ch/fr/" class="my-4 d-lg-none">
+        	<img src="/assets/logos/neuchatel.svg" width="140" alt="Ville de Neuchatel">
+        </a>
     </div>
+
+    <!-- JS -->
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
 </body>
 </html>
