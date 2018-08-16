@@ -11,3 +11,5 @@ fields:
 - type: text
   name: permalink
   label: Permalink
+pages:
+- test2.md
