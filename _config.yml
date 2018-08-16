@@ -23,9 +23,6 @@ permalink: :title/
 sass:
   sass_dir: css
 
-includes:
-  - assets
-
 
 defaults:
   -

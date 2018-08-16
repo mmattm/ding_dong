@@ -6,11 +6,11 @@
 
 @font-face {
     font-family: 'BrownPro-Regular';
-    src: url('../assets/fonts/brown/BrownPro-Regular.eot#iefix') format('embedded-opentype'), 
-    url('../assets/fonts/brown/BrownPro-Regular.otf') format('opentype'),
-    url('../assets/fonts/brown/BrownPro-Regular.woff') format('woff'), 
-    url('../assets/fonts/brown/BrownPro-Regular.ttf') format('truetype'), 
-    url('../assets/fonts/brown/BrownPro-Regular.svg#BrownPro-Regular') format('svg');
+    src: url('assets/fonts/brown/BrownPro-Regular.eot#iefix') format('embedded-opentype'), 
+    url('assets/fonts/brown/BrownPro-Regular.otf') format('opentype'),
+    url('assets/fonts/brown/BrownPro-Regular.woff') format('woff'), 
+    url('assets/fonts/brown/BrownPro-Regular.ttf') format('truetype'), 
+    url('assets/fonts/brown/BrownPro-Regular.svg#BrownPro-Regular') format('svg');
     
     font-weight: normal;
     font-style: normal;
@@ -21,7 +21,7 @@ body {
 }
 
 p {
-	color: #FF0000;
+	color: #FF0000 !important;
 }
 
 nav {
