@@ -10,7 +10,7 @@
         	  <div class=" pb-4">
         	    {% for my_page in site.pages %}
         	      {% if my_page.title %}
-        	      <h3 class="text-uppercase"><a class="{% if page.url == my_page.url %}text-secondary{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></h3>
+        	      <h3 class="text-uppercase mb-3"><a class="{% if page.url == my_page.url %}text-secondary{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></h3>
         	      {% endif %}
         	    {% endfor %}
         	  </div>
@@ -25,7 +25,7 @@
         	  </nav>
         	</div>
 
-            <div class="logo mb-auto text-primary w-100 pb-6">
+            <div class="logo mb-auto text-primary w-100 pb-5">
             	<div class="d-flex">
 	                <div>
 	                	<div class="h1 mb-0">D<br/>D</div> 
@@ -40,14 +40,14 @@
 	                	<div class="h1 mb-0">G<br/>G</div> 
 	                </div>
             	</div>
-            	<div class="text-secondary tagline">
+            	<p class="text-secondary tagline">
             		Des artistes et des horloges <br/> en ville de Neuchâtel
-            	</div>
+            	</p>
             </div>
             <nav class="text-uppercase mt-5 d-none d-lg-block">
 
                 {% for item in site.menus.header %}
-                <h1 class="text-uppercase"><a class="{% if page.url == item.url %}text-secondary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
+                <h1 class="text-uppercase mb-3"><a class="{% if page.url == item.url %}text-secondary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
                 {% endfor %}
 
 
