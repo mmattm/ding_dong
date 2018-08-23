@@ -31,6 +31,10 @@ p {
 
 nav {
 	bottom: 0px;
+
+    h1 {
+        margin-top:-0.5rem;
+    }
 }
 
 .logo .h1{
@@ -55,9 +59,26 @@ nav {
 	 margin-top: 4rem;
 }
 
+.content{
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
 
 .custom-toggler .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(96,203,181, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-toggler {
+    font-size: 1.8rem;
+    .navbar-toggler-icon {
+       font-size: 2.4rem; 
+    }
+}
+
+.mobile-nav {
+    right: 0;
 }
 
 @include media-breakpoint-up(sm) {
@@ -66,6 +87,12 @@ nav {
   }
   p {
     font-size: 1.3rem;
+  }
+  .navbar-toggler {
+      font-size: 1.3rem;
+      .navbar-toggler-icon {
+         font-size: 2rem; 
+      }
   }
 }
 

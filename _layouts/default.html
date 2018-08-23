@@ -7,17 +7,15 @@
         <div class="w-100 w-lg-50 d-flex align-items-start flex-column position-relative">
 
         	<div class="collapse" id="navbarToggleExternalContent">
-        	  <div class=" pb-4">
-        	    {% for my_page in site.pages %}
-        	      {% if my_page.title %}
-        	      <h3 class="text-uppercase mb-3"><a class="{% if page.url == my_page.url %}text-secondary{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></h3>
-        	      {% endif %}
-        	    {% endfor %}
+        	  <div class=" pb-5">
+                {% for item in site.menus.header %}
+                <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
+                {% endfor %}
         	  </div>
         	</div>
 
 
-        	<div class="position-absolute d-block d-lg-none w-100">
+        	<div class="mobile-nav position-absolute d-block d-lg-none">
         	  <nav class="navbar float-right navbar-light m-0 p-0">
         	    <button class="navbar-toggler text-primary p-0 border-0 custom-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
         	      Menu <span class="navbar-toggler-icon"></span>
@@ -25,7 +23,7 @@
         	  </nav>
         	</div>
 
-            <div class="logo mb-auto text-primary w-100 pb-5">
+            <div class="logo mb-auto text-primary w-100 pb-5 pb-lg-0">
             	<div class="d-flex">
 	                <div>
 	                	<div class="h1 mb-0">D<br/>D</div> 
@@ -44,10 +42,10 @@
             		Des artistes et des horloges <br/> en ville de Neuchâtel
             	</p>
             </div>
-            <nav class="text-uppercase mt-5 d-none d-lg-block">
+            <nav class="text-uppercase mt-5 mt-lg-2 d-none d-lg-block">
 
                 {% for item in site.menus.header %}
-                <h1 class="text-uppercase mb-3"><a class="{% if page.url == item.url %}text-secondary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
+                <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
                 {% endfor %}
 
 
@@ -56,11 +54,11 @@
                 </a>
             </nav>
         </div>
-        <div class="w-100 w-lg-50 mb-5">
+        <div class="content w-100 w-lg-50 mb-0">
             {{ content }}    
         </div>
 
-        <a href="https://www.neuchatelville.ch/fr/" class="my-4 d-lg-none">
+        <a href="https://www.neuchatelville.ch/fr/" class="my-5 d-lg-none">
         	<img src="/css/assets/logos/neuchatel.svg" width="140" alt="Ville de Neuchatel">
         </a>
     </div>
