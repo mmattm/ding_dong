@@ -20,7 +20,9 @@ Plaquette produite à: ...
 
 Prix: CHF 1'300.-
 
-Intéressé/e à acquérir une statue? 
+ 
+
+INTERESSE/E A ACQUERIR UNE STATUE?
 
 Voici la marche à suivre:
 
