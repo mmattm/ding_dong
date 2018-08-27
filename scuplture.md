@@ -24,7 +24,7 @@ Intéressé/e à acquérir une statue? 
 
 Voici la marche à suivre:
 
-**Etape 1: Commande**
+**ETAPE 1: COMMANDE**
 
 Commandez une sculpture en envoyant un mail à l’adresse suivante: eva.volery.vdn@ne.ch 
 
