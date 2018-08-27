@@ -40,6 +40,7 @@ Début 2019, la statue vous sera remise totalement blanche, espace propice pour 
 
 Orélie Fuchs Chen (plasticienne)  
 [E-mail](oreliechenfuchs@gmail.com)  
+[oreliechenfuchs@gmail.com](mailto:oreliechenfuchs@gmail.com)      
 [Site internet](https://oreliefuchs.jimdo.com/)
 
 Nous ne faisons pas office d’intermédiaire, n’hésitez donc pas à prendre directement contact avec l’artiste et à convenir avec lui d’un prix pour son travail. L’artiste ne pourra intervenir que sur une sculpture, alors dès que votre choix est fait, nous vous remercions d’avance de nous le signaler, afin de le retirer de la liste.
