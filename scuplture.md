@@ -12,3 +12,10 @@ La sculpture est fabriquée en polyester renforcée avec des fibres de verre. C�
 La sculpture, une fois ornée, est vissée sur une base en béton, mesurant environ 10cm de haut, 140cm de long et 90cm de large; elle pèse approximativement 260 kg.
 
 Sur la base sera apposée une plaquette de métal (210 mm de large, 148 mm de long, 1,5 mm d’épaisseur) où sera gravé différentes informations telles que le nom du projet, le nom du propriétaire, le nom de l’artiste ou encore les sponsors.
+
+Poids total: ...  
+Sculpture conçue par Denis Roueche et produite par ...  
+Base en béton produite à: ?  
+Plaquette produite à: Neuchâtel
+
+Prix: CHF 1'300.-
