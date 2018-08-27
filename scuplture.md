@@ -7,7 +7,7 @@ menu:
     title: Sculpture
 
 ---
-![](/uploads/untitled.82_A.jpg)La sculpture est fabriquée en polyester renforcée avec des fibres de verre. C’est un matériau solide et léger, supportant les conditions climatiques extérieures. Les dimensions approximatives de la statue: 180cm de haut, 87cm de long et 33cm de large.
+La sculpture est fabriquée en polyester renforcée avec des fibres de verre. C’est un matériau solide et léger, supportant les conditions climatiques extérieures. Les dimensions approximatives de la statue: 180cm de haut, 87cm de long et 33cm de large.
 
 La sculpture, une fois ornée, est vissée sur une base en béton, mesurant environ 10cm de haut, 140cm de long et 90cm de large; elle pèse approximativement 260 kg.
 
@@ -60,5 +60,9 @@ ET APRES?**
 Votre statue est à vous et vous pourrez l’utiliser, une fois l’exposition terminée, à votre convenance.
 
 Participer à un tel projet permet de mettre en valeur l’intérêt commun pour le centre-ville, sa dynamique et son rayonnement et ce, d’une manière décalée et récréative. S’inscrivant dans le jubilé des 40 ans de la zone piétonne, une couverture médiatique et une visibilité attrayante seront assurées pour cet événement.
+
+ 
+
+![](/uploads/untitled.82_A.jpg) 
 
 ![](/uploads/untitled.85_A.jpg)
