@@ -36,7 +36,9 @@ Afin de vous notifiez la bonne réception de votre message, vous recevrez une co
 **ETAPE 2  
 L’ŒUVRE**
 
-Début 2019, la statue vous sera remise totalement blanche, espace propice pour une intervention artistique de votre choix. Envie de faire appel à un artiste de la région ? Pas d’idée ? Voici une liste non exhaustive d’artistes neuchâtelois prêts à prendre part au projet.
+Début 2019, la statue vous sera remise totalement blanche, espace propice pour une intervention artistique de votre choix. Envie de faire appel à un artiste de la région? Pas d’idée? Voici une liste non exhaustive d’artistes neuchâtelois prêts à prendre part au projet.
+
+[Orélie Fuchs Chen](miramundo.ch)
 
 Nous ne faisons pas office d’intermédiaire, n’hésitez donc pas à prendre directement contact avec l’artiste et à convenir avec lui d’un prix pour son travail. L’artiste ne pourra intervenir que sur une sculpture, alors dès que votre choix est fait, nous vous remercions d’avance de nous le signaler, afin de le retirer de la liste.
 
@@ -61,8 +63,6 @@ Votre statue est à vous et vous pourrez l’utiliser, une fois l’exposition t
 
 Participer à un tel projet permet de mettre en valeur l’intérêt commun pour le centre-ville, sa dynamique et son rayonnement et ce, d’une manière décalée et récréative. S’inscrivant dans le jubilé des 40 ans de la zone piétonne, une couverture médiatique et une visibilité attrayante seront assurées pour cet événement.
 
- 
-
-![](/uploads/untitled.82_A.jpg) 
+![](/uploads/untitled.82_A.jpg)
 
 ![](/uploads/untitled.85_A.jpg)
