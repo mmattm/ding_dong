@@ -42,6 +42,10 @@ Orélie Fuchs Chen (plasticienne)
 [oreliechenfuchs@gmail.com](mailto:oreliechenfuchs@gmail.com)  
 [www.oreliefuchs.jimdo.com]()
 
+Alessandra RESPINI (Dessinatrice)  
+miramundo1@yahoo.fr      
+miramundo.ch    
+
 Nous ne faisons pas office d’intermédiaire, n’hésitez donc pas à prendre directement contact avec l’artiste et à convenir avec lui d’un prix pour son travail. L’artiste ne pourra intervenir que sur une sculpture, alors dès que votre choix est fait, nous vous remercions d’avance de nous le signaler, afin de le retirer de la liste.
 
 Ce dernier a carte blanche et peut laisser libre cours à son imagination, en évitant toutefois l’usage inapproprié de motifs religieux, racistes ou sexistes. Il peut utiliser les techniques artistiques de son choix afin de personnaliser la statue. Nous rappelons toutefois que cette dernière sera exposée à l’extérieur et ce pendant une longue durée.
