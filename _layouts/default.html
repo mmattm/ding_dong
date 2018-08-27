@@ -3,15 +3,15 @@
 {% include head.html %}
 
 <body>
-    <div class="row px-4 py-4 h-100 m-0">
+    <div class="row px-5 px-md-4 py-4 h-100 m-0">
         <div class="w-100 w-lg-50 d-flex align-items-start flex-column position-relative">
 
         	<div class="collapse" id="navbarToggleExternalContent">
-        	  <div class=" pb-5">
+        	  <nav class=" mobile-menu">
                 {% for item in site.menus.header %}
                 <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
                 {% endfor %}
-        	  </div>
+        	  </nav>
         	</div>
 
 
@@ -49,7 +49,7 @@
                 {% endfor %}
 
 
-                <a href="https://www.neuchatelville.ch/fr/" class="my-4 d-block">
+                <a href="https://www.neuchatelville.ch/fr/" class="my-4 d-block pl-2">
                 	<img src="/css/assets/logos/neuchatel.svg" width="140" alt="Ville de Neuchatel">
                 </a>
             </nav>
@@ -58,7 +58,7 @@
             {{ content }}    
         </div>
 
-        <a href="https://www.neuchatelville.ch/fr/" class="my-5 d-lg-none">
+        <a href="https://www.neuchatelville.ch/fr/" class="my-5 d-lg-none pl-2">
         	<img src="/css/assets/logos/neuchatel.svg" width="140" alt="Ville de Neuchatel">
         </a>
     </div>

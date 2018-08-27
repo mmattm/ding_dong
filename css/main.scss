@@ -80,6 +80,9 @@ nav {
 .mobile-nav {
     right: 0;
 }
+.mobile-menu {
+    padding-bottom: 3.9rem;
+}
 
 @include media-breakpoint-up(sm) {
   html {
