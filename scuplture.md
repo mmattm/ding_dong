@@ -44,7 +44,7 @@ Orélie Fuchs Chen (plasticienne)
 
 Alessandra RESPINI (Dessinatrice)  
 miramundo1@yahoo.fr      
-miramundo.ch    
+[www.miramundo.ch](https://miramundo.ch/ "https://miramundo.ch/")
 
 Nous ne faisons pas office d’intermédiaire, n’hésitez donc pas à prendre directement contact avec l’artiste et à convenir avec lui d’un prix pour son travail. L’artiste ne pourra intervenir que sur une sculpture, alors dès que votre choix est fait, nous vous remercions d’avance de nous le signaler, afin de le retirer de la liste.
 
