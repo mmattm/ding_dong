@@ -6,3 +6,4 @@ menu:
     weight: 9
 
 ---
+Ville de Neuchâtel
