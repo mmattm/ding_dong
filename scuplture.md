@@ -7,7 +7,7 @@ menu:
     title: Sculpture
 
 ---
-La sculpture est fabriquée en polyester renforcée avec des fibres de verre. C’est un matériau solide et léger, supportant les conditions climatiques extérieures. Les dimensions approximatives de la statue: 180cm de haut, 87cm de long et 33cm de large.
+![](/uploads/untitled.82_A.jpg)La sculpture est fabriquée en polyester renforcée avec des fibres de verre. C’est un matériau solide et léger, supportant les conditions climatiques extérieures. Les dimensions approximatives de la statue: 180cm de haut, 87cm de long et 33cm de large.
 
 La sculpture, une fois ornée, est vissée sur une base en béton, mesurant environ 10cm de haut, 140cm de long et 90cm de large; elle pèse approximativement 260 kg.
 
@@ -20,8 +20,6 @@ Plaquette produite à: ...
 
 Prix: CHF 1'300.-
 
- 
-
 INTERESSE/E A ACQUERIR UNE STATUE?
 
 Voici la marche à suivre:
@@ -29,14 +27,14 @@ Voici la marche à suivre:
 **ETAPE 1  
 COMMANDE**
 
-Commandez une sculpture en envoyant un mail à l’adresse suivante: eva.volery.vdn@ne.ch 
+Commandez une sculpture en envoyant un mail à l’adresse suivante: eva.volery.vdn@ne.ch
 
-Dans votre message, veuillez indiquer les éléments suivants : vos nom et prénom, le nom de votre entreprise, vos coordonnées et l’emplacement souhaité pour la statue. 
+Dans votre message, veuillez indiquer les éléments suivants : vos nom et prénom, le nom de votre entreprise, vos coordonnées et l’emplacement souhaité pour la statue.
 
 Afin de vous notifiez la bonne réception de votre message, vous recevrez une confirmation de votre commande.
 
 **ETAPE 2  
-L’ŒUVRE**     
+L’ŒUVRE**
 
 Début 2019, la statue vous sera remise totalement blanche, espace propice pour une intervention artistique de votre choix. Envie de faire appel à un artiste de la région ? Pas d’idée ? Voici une liste non exhaustive d’artistes neuchâtelois prêts à prendre part au projet.
 
@@ -63,4 +61,4 @@ Votre statue est à vous et vous pourrez l’utiliser, une fois l’exposition t
 
 Participer à un tel projet permet de mettre en valeur l’intérêt commun pour le centre-ville, sa dynamique et son rayonnement et ce, d’une manière décalée et récréative. S’inscrivant dans le jubilé des 40 ans de la zone piétonne, une couverture médiatique et une visibilité attrayante seront assurées pour cet événement.
 
- 
+![](/uploads/untitled.85_A.jpg)
