@@ -39,9 +39,8 @@ L’ŒUVRE**
 Début 2019, la statue vous sera remise totalement blanche, espace propice pour une intervention artistique de votre choix. Envie de faire appel à un artiste de la région? Pas d’idée? Voici une liste non exhaustive d’artistes neuchâtelois prêts à prendre part au projet.
 
 Orélie Fuchs Chen (plasticienne)  
-[E-mail](oreliechenfuchs@gmail.com)  
-[oreliechenfuchs@gmail.com](mailto:oreliechenfuchs@gmail.com)      
-[Site internet](https://oreliefuchs.jimdo.com/)
+[oreliechenfuchs@gmail.com](mailto:oreliechenfuchs@gmail.com)  
+[www.oreliefuchs.jimdo.com]()
 
 Nous ne faisons pas office d’intermédiaire, n’hésitez donc pas à prendre directement contact avec l’artiste et à convenir avec lui d’un prix pour son travail. L’artiste ne pourra intervenir que sur une sculpture, alors dès que votre choix est fait, nous vous remercions d’avance de nous le signaler, afin de le retirer de la liste.
 
