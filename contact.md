@@ -11,5 +11,5 @@ Direction Culture, Sports, Tourisme
 Faubourg de l'Hôpital 4  
 CH - 2000 Neuchâtel  
 032 717 70 80  
-[www.neuchatelville.ch](http://www.neuchatelville.ch/)  
-[eva.volery.vdn@ne.ch](mailto:lena.brina@ne.ch)
+[eva.volery.vdn@ne.ch](mailto:lena.brina@ne.ch)  
+[www.neuchatelville.ch](http://www.neuchatelville.ch/)
