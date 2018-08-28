@@ -84,15 +84,15 @@ Mandril (illustratrice)
 www.mandril.ch
 
 Maho (peintre)  
-ammauler@yahoo.fr  
+[ammauler@yahoo.fr](mailto:ammauler@yahoo.fr)  
 [www.art-maho.ch](http://www.art-maho.ch)
 
 Kim Bachmann (plasticienne)  
 [kimlbachmann@gmail.com](mailto:kimlbachmann@gmail.com)  
-kimbachmann.ch
+www.kimbachmann.ch
 
 Wilo Weal (peintre et graffeur)  
-wilo.r2f@gmail.com  
+[wilo.r2f@gmail.com](mailto:wilo.r2f@gmail.com)  
 www.instagram.com/wilo_r2f
 
 Alina Mnatsakanian (artiste visuelle)  
@@ -113,11 +113,11 @@ Catherine Aeschlimann (plasticienne)
 
 Ivan Moscatelli (peintre)  
 [ivanmoscat@net2000.ch](mailto:ivanmoscat@net2000.ch)  
-ivanmoscatelli.ch
+www.ivanmoscatelli.ch
 
 Ruben Pensa (artiste visuel)  
 [ruben.pensa@ne.ch](mailto:ruben.pensa@ne.ch)  
-rubenpensa.com
+[www.rubenpensa.com](https://rubenpensa.com/ "https://rubenpensa.com/")
 
 Nous ne faisons pas office d’intermédiaire, n’hésitez donc pas à prendre directement contact avec l’artiste et à convenir avec lui d’un prix pour son travail. L’artiste ne pourra intervenir que sur une sculpture, alors dès que votre choix est fait, nous vous remercions d’avance de nous le signaler, afin de le retirer de la liste.
 
