@@ -57,7 +57,7 @@ www.u-zehn.ch
 
 Kesh (graffeur)  
 [kesh@kesh.ch](mailto:kesh@kesh.ch)  
-www.graff-it.ch
+[www.graff-it.ch](http://www.graff-it.ch/ "http://www.graff-it.ch/")
 
 Nicolas Ischer (graphisme et multimédia)  
 [nicolasischer@hotmail.com](mailto:nicolasischer@hotmail.com)  
