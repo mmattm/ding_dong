@@ -53,7 +53,7 @@ Albeiro Sarria (artiste visuel)
 
 U-Zehn (graphisme et sérigraphie)  
 [info@u-zehn.ch](mailto:info@u-zehn.ch)  
-www.u-zehn.ch
+[www.u-zehn.ch](http://u-zehn.ch/ "http://u-zehn.ch/")
 
 Kesh (graffeur)  
 [kesh@kesh.ch](mailto:kesh@kesh.ch)  
