@@ -81,7 +81,7 @@ François Jaques (peintre)
 
 Mandril (illustratrice)  
 [mandril@mandril.ch](mailto:mandril@mandril.ch)  
-www.mandril.ch
+[www.mandril.ch](http://www.mandril.ch/ "http://www.mandril.ch/")
 
 Maho (peintre)  
 [ammauler@yahoo.fr](mailto:ammauler@yahoo.fr)  
@@ -89,7 +89,7 @@ Maho (peintre)
 
 Kim Bachmann (plasticienne)  
 [kimlbachmann@gmail.com](mailto:kimlbachmann@gmail.com)  
-www.kimbachmann.ch
+[www.kimbachmann.ch](https://kimbachmann.ch/ "https://kimbachmann.ch/")
 
 Wilo Weal (peintre et graffeur)  
 [wilo.r2f@gmail.com](mailto:wilo.r2f@gmail.com)  
