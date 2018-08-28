@@ -93,7 +93,7 @@ www.kimbachmann.ch
 
 Wilo Weal (peintre et graffeur)  
 [wilo.r2f@gmail.com](mailto:wilo.r2f@gmail.com)  
-www.instagram.com/wilo_r2f
+[www.instagram.com/wilo_r2f](https://www.instagram.com/wilo_r2f/ "https://www.instagram.com/wilo_r2f/")
 
 Alina Mnatsakanian (artiste visuelle)  
 [alina@alinamn.com](mailto:alina@alinamn.com)  
@@ -101,11 +101,11 @@ Alina Mnatsakanian (artiste visuelle)
 
 Prune Simon-Vermot (artiste visuelle)  
 [hello@simonvermot.ch](mailto:hello@simonvermot.ch)  
-www.simonvermot.ch
+[www.simonvermot.ch](http://www.simonvermot.ch/ "http://www.simonvermot.ch/")
 
 Pier Schwaab (peintre)  
 [pierschwaab@bluewin.ch](mailto:pierschwaab@bluewin.ch)  
-www.facebook.com/pier.schwaab
+[www.facebook.com/pier.schwaab](https://www.facebook.com/pier.schwaab "https://www.facebook.com/pier.schwaab")
 
 Catherine Aeschlimann (plasticienne)  
 [Catherine.Aeschlimann@rpn.ch](mailto:Catherine.Aeschlimann@rpn.ch)  
