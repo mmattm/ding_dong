@@ -46,17 +46,18 @@ nav {
     transform-origin: center -20px;
     float:left;
 }
-
+.logo-swing {
+    padding-bottom: 10rem;
+}
 @keyframes swing {
     0% { transform: rotate(13deg); }
     100% { transform: rotate(-13deg); }
 }
 
 .tagline {
-	 transform: rotate(-15deg);
-	 margin-left: 4.5rem;
-	 transform-origin: 0% 51%;
-	 margin-top: 4rem;
+     width: 30rem;
+     text-align:left;
+     line-height: 1.1;
 }
 
 .content{
@@ -102,10 +103,6 @@ nav {
 @include media-breakpoint-up(md) {
   html {
     font-size: 1rem;
-  }
-  .tagline {
-    margin-left: 10rem;
-    margin-top: 2.5rem;
   }
 }
 
