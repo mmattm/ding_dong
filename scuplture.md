@@ -113,7 +113,7 @@ Catherine Aeschlimann (plasticienne)
 
 Ivan Moscatelli (peintre)  
 [ivanmoscat@net2000.ch](mailto:ivanmoscat@net2000.ch)  
-www.ivanmoscatelli.ch
+[www.ivanmoscatelli.ch](http://ivanmoscatelli.ch/ "http://ivanmoscatelli.ch/")
 
 Ruben Pensa (artiste visuel)  
 [ruben.pensa@ne.ch](mailto:ruben.pensa@ne.ch)  
