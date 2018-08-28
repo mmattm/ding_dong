@@ -65,7 +65,7 @@ Nicolas Ischer (graphisme et multimédia)
 
 Stéphanie Jeannet (dessinatrice)  
 [home@stephaniejeannet.com](mailto:home@stephaniejeannet.com)  
-www.stephaniejeannet.com
+[www.stephaniejeannet.com](http://www.stephaniejeannet.com/ "http://www.stephaniejeannet.com/")
 
 Giona Mottura (artiste visuel)  
 [gionamottura@gmail.com](mailto:gionamottura@gmail.com)  
