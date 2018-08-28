@@ -27,7 +27,8 @@ Voici la marche à suivre:
 **ETAPE 1  
 COMMANDE**
 
-Commandez une sculpture en envoyant un mail à l’adresse suivante: eva.volery.vdn@ne.ch
+Commandez une sculpture en envoyant un mail à l’adresse suivante:  
+[eva.volery.vdn@ne.ch]()
 
 Dans votre message, veuillez indiquer les éléments suivants : vos nom et prénom, le nom de votre entreprise, vos coordonnées et l’emplacement souhaité pour la statue.
 
@@ -43,7 +44,7 @@ Orélie Fuchs Chen (plasticienne)
 [www.oreliefuchs.jimdo.com]()
 
 Alessandra RESPINI (Dessinatrice)  
-miramundo1@yahoo.fr      
+miramundo1@yahoo.fr  
 [www.miramundo.ch](https://miramundo.ch/ "https://miramundo.ch/")
 
 Nous ne faisons pas office d’intermédiaire, n’hésitez donc pas à prendre directement contact avec l’artiste et à convenir avec lui d’un prix pour son travail. L’artiste ne pourra intervenir que sur une sculpture, alors dès que votre choix est fait, nous vous remercions d’avance de nous le signaler, afin de le retirer de la liste.
