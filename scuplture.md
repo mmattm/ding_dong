@@ -69,11 +69,11 @@ www.stephaniejeannet.com
 
 Giona Mottura (artiste visuel)  
 [gionamottura@gmail.com](mailto:gionamottura@gmail.com)  
-www.giona-mottura.com
+[www.giona-mottura.com](http://www.giona-mottura.com/ "http://www.giona-mottura.com/")
 
 Valérie Losa (illustratrice)  
 [valerie.losa@bluemail.ch](mailto:valerie.losa@bluemail.ch)  
-www.valerielosa.ch
+[www.valerielosa.ch](http://www.valerielosa.ch/ "http://www.valerielosa.ch/")
 
 François Jaques (peintre)  
 [f@fjaques.com](mailto:f@fjaques.com)  
