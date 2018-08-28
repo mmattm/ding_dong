@@ -24,8 +24,8 @@ INTERESSE/E A ACQUERIR UNE STATUE?
 
 Voici la marche à suivre:
 
-**ETAPE 1  
-COMMANDE**
+ETAPE 1  
+COMMANDE
 
 Commandez une sculpture en envoyant un mail à l’adresse suivante:  
 [eva.volery.vdn@ne.ch]()
@@ -34,8 +34,8 @@ Dans votre message, veuillez indiquer les éléments suivants : vos nom et pré
 
 Afin de vous notifiez la bonne réception de votre message, vous recevrez une confirmation de votre commande.
 
-**ETAPE 2  
-L’ŒUVRE**
+ETAPE 2  
+L’ŒUVRE
 
 Début 2019, la statue vous sera remise totalement blanche, espace propice pour une intervention artistique de votre choix. Envie de faire appel à un artiste de la région? Pas d’idée? Voici une liste non exhaustive d’artistes neuchâtelois prêts à prendre part au projet.
 
@@ -123,20 +123,20 @@ Nous ne faisons pas office d’intermédiaire, n’hésitez donc pas à prendre 
 
 Ce dernier a carte blanche et peut laisser libre cours à son imagination, en évitant toutefois l’usage inapproprié de motifs religieux, racistes ou sexistes. Il peut utiliser les techniques artistiques de son choix afin de personnaliser la statue. Nous rappelons toutefois que cette dernière sera exposée à l’extérieur et ce pendant une longue durée.
 
-**ETAPE 3  
-L'EMPLACEMENT**
+ETAPE 3  
+L'EMPLACEMENT
 
 Afin de s’assurer de la possibilité de poser la statue dans un endroit à votre convenance, et dans la mesure des contraintes inhérentes liées à l’utilisation de l’espace public, il faudra nous notifier un premier et un second choix. Nous prendrons en compte toutes les demandes et ferons au mieux pour contenter vos souhaits. L’idée est de mettre la statue au centre-ville et/ou au plus près de votre entreprise. Elle sera ainsi exposée le temps de l’exposition.
 
 Le transport de la statue et de la base en béton seront assurés par nos soins, de même que son enlèvement à l’issue de l’exposition.
 
-**ETAPE 4  
-VERNISSAGE ET EXPOSITION**
+ETAPE 4  
+VERNISSAGE ET EXPOSITION
 
 Afin de marquer l’ouverture du parcours de sculptures, un vernissage sera organisé en mai 2019. Une date précise sera donnée ultérieurement. Votre sculpture sera prête et mise en place pour cette date. L’exposition durera entre mai et septembre. Un dépliant sera édité à l’occasion pour présenter le parcours aux habitants et aux personnes de passage.
 
-**ETAPE 5  
-ET APRES?**
+ETAPE 5  
+ET APRES?
 
 Votre statue est à vous et vous pourrez l’utiliser, une fois l’exposition terminée, à votre convenance.
 
