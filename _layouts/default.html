@@ -9,7 +9,7 @@
         	<div class="collapse" id="navbarToggleExternalContent">
         	  <nav class=" mobile-menu">
                 {% for item in site.menus.header %}
-                <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
+                <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% else %}text-primary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
                 {% endfor %}
         	  </nav>
         	</div>
@@ -30,7 +30,7 @@
 	                </div>
 	                <div class="text-secondary text-center swing">
 	                	<div class="h1 mb-0">I<br/>O
-                            <p class="position-absolute tagline mt-5">
+                            <p class="position-absolute tagline mt-5 text-secondary">
                                 Des artistes et des horloges <br/> en ville de Neuchâtel
                             </p>
                         </div> 
@@ -46,7 +46,7 @@
             <nav class="text-uppercase mt-5 mt-lg-2 d-none d-lg-block">
 
                 {% for item in site.menus.header %}
-                <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
+                <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% else %}text-primary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
                 {% endfor %}
 
 
