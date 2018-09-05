@@ -35,6 +35,10 @@ nav {
     h1 {
         margin-top:-0.5rem;
     }
+
+    a:hover, a.text-primary:hover, a.text-primary:focus {
+      color: $secondary !important;
+    }
 }
 
 .logo .h1{
