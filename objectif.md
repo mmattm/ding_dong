@@ -1,5 +1,5 @@
 ---
-title: Objectif
+title: Artistes
 menu:
   header:
     weight: 2
