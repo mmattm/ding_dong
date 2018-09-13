@@ -5,6 +5,7 @@ menu:
     weight: 3
 
 ---
+Pour donner la touche artistique à votre horloge, vous trouverez une liste non exhaustive d’artistes de la région prêts à prendre part au projet !
 
 Orélie Fuchs Chen (plasticienne)  
 [oreliechenfuchs@gmail.com](mailto:oreliechenfuchs@gmail.com)  
@@ -85,3 +86,5 @@ Ivan Moscatelli (peintre)
 Ruben Pensa (artiste visuel)  
 [ruben.pensa@ne.ch](mailto:ruben.pensa@ne.ch)  
 [www.rubenpensa.com](https://rubenpensa.com/ "https://rubenpensa.com/")
+
+Vous êtes un créatif et souhaitez proposer vos talents ? N’hésitez pas à nous contacter !
