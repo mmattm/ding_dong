@@ -5,8 +5,12 @@ menu:
     weight: 1
 
 ---
-La direction du Tourisme, sous l’impulsion de plusieurs hôteliers de la Ville, propose aux commerces, entreprises et institutions de la région de participer à un projet visant à faire (re)découvrir la Ville et son centre aux habitants et aux touristes. L’idée consiste à agrémenter les rues de la ville, entre mai et septembre, de statues en forme d’horloge neuchâteloise. Aux acquéreurs de les faire personnaliser à leurs goûts.
+La Ville de Neuchâtel, sous l’impulsion de plusieurs hôteliers et commerçants, propose, aux commerces, entreprises et institutions de la région de participer à un projet visant à faire (re)découvrir la ville aux habitants et aux touristes et à dynamiser la zone piétonne qui fête son 40e anniversaire en 2019.
 
-En devenant propriétaire d’une sculpture, non seulement vous contribuez à la réussite de ce projet qui permettra aux passants de déambuler au centre-ville et de se divertir en se prenant en photos en sa compagnie, mais vous devenez aussi le propriétaire d’une œuvre d’art unique.
+De mai à septembre 2019, nous souhaitons installer dans le centre-ville, une trentaine de statues en forme d’horloge neuchâteloise, conçues par l’artiste Denis Roueche, qui constitueront ensemble un parcours ludique à travers la ville.
 
-Pour faire connaître ce parcours estival, différents moyens de communication seront mis en œuvre par la Ville et notamment un dépliant explicatif avec un plan (ou un autre support) qui sera largement distribué.
+Nous sommes à la recherche de partenaires destinés à devenir les heureux propriétaires d’une (ou plusieurs) statue et qu’ils feront par la suite personnaliser par un artiste de leur propre choix, afin qu’elle devienne une véritable œuvre d’art.
+
+Pour faire connaître ce parcours, différents moyens de communication seront mis en œuvre par la Ville et notamment un dépliant explicatif avec un plan qui sera largement distribué.
+
+\#dingdongneuchatel    
