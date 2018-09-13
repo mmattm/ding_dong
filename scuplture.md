@@ -36,28 +36,24 @@ Nous vous laissons le soin de prendre directement contact avec l’artiste de vo
 
 Ce dernier a carte blanche et peut laisser libre cours à son imagination, en évitant toutefois l’usage inapproprié de motifs religieux, racistes ou sexistes. Il peut utiliser les techniques artistiques de son choix afin de personnaliser la statue. Nous rappelons toutefois que cette dernière sera exposée à l’extérieur et ce, pendant une longue durée.
 
-Nous ne faisons pas office d’intermédiaire, n’hésitez donc pas à prendre directement contact avec l’artiste et à convenir avec lui d’un prix pour son travail. L’artiste ne pourra intervenir que sur une sculpture, alors dès que votre choix est fait, nous vous remercions d’avance de nous le signaler, afin de le retirer de la liste.
-
-Ce dernier a carte blanche et peut laisser libre cours à son imagination, en évitant toutefois l’usage inapproprié de motifs religieux, racistes ou sexistes. Il peut utiliser les techniques artistiques de son choix afin de personnaliser la statue. Nous rappelons toutefois que cette dernière sera exposée à l’extérieur et ce pendant une longue durée.
-
 ETAPE 3  
 L'EMPLACEMENT
 
-Afin de s’assurer de la possibilité de poser la statue dans un endroit à votre convenance, et dans la mesure des contraintes inhérentes liées à l’utilisation de l’espace public, il faudra nous notifier un premier et un second choix. Nous prendrons en compte toutes les demandes et ferons au mieux pour contenter vos souhaits. L’idée est de mettre la statue au centre-ville et/ou au plus près de votre entreprise. Elle sera ainsi exposée le temps de l’exposition.
+Au cours de la semaine du 13 mai 2019, les statues seront installées aux emplacements choisis. L’idée est de mettre la statue au centre-ville et/ou au plus près de votre entreprise. Dans la mesure des contraintes inhérentes liées à l’utilisation de l’espace public, nous souhaitons trouver avec vous le lieu idéal pour la pose. Dans un premier temps, nous vous prions de bien vouloir nous indiquer deux choix d’emplacement. Nous prendrons ensuite contact avec chaque propriétaire pour finaliser le parcours.
 
-Le transport de la statue et de la base en béton seront assurés par nos soins, de même que son enlèvement à l’issue de l’exposition.
+Le transport de la statue et de la base en béton sera assuré par nos soins, de même que son enlèvement à l’issue de l’exposition.
 
 ETAPE 4  
 VERNISSAGE ET EXPOSITION
 
-Afin de marquer l’ouverture du parcours de sculptures, un vernissage sera organisé en mai 2019. Une date précise sera donnée ultérieurement. Votre sculpture sera prête et mise en place pour cette date. L’exposition durera entre mai et septembre. Un dépliant sera édité à l’occasion pour présenter le parcours aux habitants et aux personnes de passage.
+Afin de marquer l’ouverture de ce parcours de sculpture, un vernissage aura lieu le 24 mai 2019. L’exposition durera jusqu’au 18 septembre 2019 et se clôturera par un finissage festif.
 
 ETAPE 5  
 ET APRES?
 
-Votre statue est à vous et vous pourrez l’utiliser, une fois l’exposition terminée, à votre convenance.
+Une fois l’exposition terminée, votre statue vous appartient et vous pourrez l’utiliser à votre convenance. Si un nombre suffisant de propriétaires le souhaitent, nous pourrons envisager l’organisation d’une vente aux enchères le 18 septembre 2019.
 
-Participer à un tel projet permet de mettre en valeur l’intérêt commun pour le centre-ville, sa dynamique et son rayonnement et ce, d’une manière décalée et récréative. S’inscrivant dans le jubilé des 40 ans de la zone piétonne, une couverture médiatique et une visibilité attrayante seront assurées pour cet événement.
+Nous vous remercions d’ores et déjà chaleureusement de l’accueil que vous réserverez à Ding Dong !
 
 ![](/uploads/untitled.82_A.jpg)
 
