@@ -3,7 +3,7 @@ title: Statue
 date: 2018-08-22 15:03:34 +0000
 menu:
   header:
-    weight: 3
+    weight: 2
 
 ---
 La sculpture est fabriquée en polyester renforcée avec des fibres de verre. C’est un matériau solide et léger, supportant les conditions climatiques extérieures. Les dimensions approximatives de la statue: 180cm de haut, 87cm de long et 33cm de large.
