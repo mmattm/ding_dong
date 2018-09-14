@@ -55,6 +55,8 @@ Une fois l’exposition terminée, votre statue vous appartient et vous pourrez 
 
 Nous vous remercions d’ores et déjà chaleureusement de l’accueil que vous réserverez à Ding Dong !
 
-![](/uploads/untitled.82_A.jpg)![](/uploads/03.jpg)
+![](/uploads/untitled.82_A.jpg)
 
 ![](/uploads/untitled.85_A.jpg)
+
+![](/uploads/03.jpg)
