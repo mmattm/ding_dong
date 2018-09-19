@@ -30,7 +30,7 @@ Dans votre message, veuillez indiquer les éléments suivants : vos nom et pré
 ETAPE 2  
 L’ŒUVRE
 
-Entre février et mars 2019, la statue vous sera livrée, totalement blanche, espace propice pour faire une intervention artistique de votre choix. Envie de faire appel à un artiste de la région ? Pas d’idée ? Vous trouverez une liste non exhaustive d’artistes neuchâtelois prêts à prendre part au projet ici !
+Entre février et mars 2019, la statue vous sera livrée, totalement blanche, espace propice pour faire une intervention artistique de votre choix. Envie de faire appel à un artiste de la région ? Pas d’idée ? Vous trouverez une liste non exhaustive d’artistes neuchâtelois prêts à prendre part au projet [ici](/objectif/) !
 
 Nous vous laissons le soin de prendre directement contact avec l’artiste de votre choix et de convenir avec lui d’un prix pour son travail. L’artiste ne pourra intervenir que sur une ou deux sculptures, alors une fois que votre choix est arrêté, signalez-le-nous !
 
