@@ -16,19 +16,19 @@ Elle est produite par Moser Polyester Sàrl \[hyperlien sur le site internet : [
 
 Pour devenir propriétaire de l’une de ces statues, il vous en coûtera CHF 1350.– (tva incluse). Puis, il vous faudra trouver un artiste qui interviendra sur cette statue afin qu’elle se transforme en œuvre d’art.
 
-## INTERESSE/E A ACQUERIR UNE STATUE?
+###### **INTERESSE/E A ACQUERIR UNE STATUE?**
 
 Voici la marche à suivre :
 
-ETAPE 1  
-COMMANDE
+**ETAPE 1  
+COMMANDE**
 
 Commandez une sculpture en envoyant un courriel à l’adresse suivante : [eva.volery.vdn@ne.ch](mailto:eva.volery.vdn@ne.ch)
 
 Dans votre message, veuillez indiquer les éléments suivants : vos nom et prénom, votre entreprise, vos coordonnées et les emplacements souhaités pour votre statue.
 
-ETAPE 2  
-L’ŒUVRE
+**ETAPE 2  
+L’ŒUVRE**
 
 Entre février et mars 2019, la statue vous sera livrée, totalement blanche, espace propice pour faire une intervention artistique de votre choix. Envie de faire appel à un artiste de la région ? Pas d’idée ? Vous trouverez une liste non exhaustive d’artistes neuchâtelois prêts à prendre part au projet [ici](/objectif/) !
 
@@ -36,20 +36,20 @@ Nous vous laissons le soin de prendre directement contact avec l’artiste de vo
 
 Ce dernier a carte blanche et peut laisser libre cours à son imagination, en évitant toutefois l’usage inapproprié de motifs religieux, racistes ou sexistes. Il peut utiliser les techniques artistiques de son choix afin de personnaliser la statue. Nous rappelons toutefois que cette dernière sera exposée à l’extérieur et ce, pendant une longue durée.
 
-ETAPE 3  
-L'EMPLACEMENT
+**ETAPE 3  
+L'EMPLACEMENT**
 
 Au cours de la semaine du 13 mai 2019, les statues seront installées aux emplacements choisis. L’idée est de mettre la statue au centre-ville et/ou au plus près de votre entreprise. Dans la mesure des contraintes inhérentes liées à l’utilisation de l’espace public, nous souhaitons trouver avec vous le lieu idéal pour la pose. Dans un premier temps, nous vous prions de bien vouloir nous indiquer deux choix d’emplacement. Nous prendrons ensuite contact avec chaque propriétaire pour finaliser le parcours.
 
 Le transport de la statue et de la base en béton sera assuré par nos soins, de même que son enlèvement à l’issue de l’exposition.
 
-ETAPE 4  
-VERNISSAGE ET EXPOSITION
+**ETAPE 4  
+VERNISSAGE ET EXPOSITION**
 
 Afin de marquer l’ouverture de ce parcours de sculpture, un vernissage aura lieu le 24 mai 2019. L’exposition durera jusqu’au 18 septembre 2019 et se clôturera par un finissage festif.
 
-ETAPE 5  
-ET APRES?
+**ETAPE 5  
+ET APRES?**
 
 Une fois l’exposition terminée, votre statue vous appartient et vous pourrez l’utiliser à votre convenance. Si un nombre suffisant de propriétaires le souhaitent, nous pourrons envisager l’organisation d’une vente aux enchères le 18 septembre 2019.
 
