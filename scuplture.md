@@ -16,7 +16,7 @@ Elle est produite par Moser Polyester Sàrl \[hyperlien sur le site internet : [
 
 Pour devenir propriétaire de l’une de ces statues, il vous en coûtera CHF 1350.– (tva incluse). Puis, il vous faudra trouver un artiste qui interviendra sur cette statue afin qu’elle se transforme en œuvre d’art.
 
-**_INTERESSE/E A ACQUERIR UNE STATUE?a_**
+## **INTERESSE/E A ACQUERIR UNE STATUE?**
 
 Voici la marche à suivre :
 
