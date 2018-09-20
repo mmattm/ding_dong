@@ -7,5 +7,5 @@ fields:
   name: title
   label: Title
 pages:
-- Statue.md
+- statue.md
 - contact.md
