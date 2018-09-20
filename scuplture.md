@@ -20,7 +20,7 @@ Pour devenir propriétaire de l’une de ces statues, il vous en coûtera CHF 13
 
 **INTERESSE/E A ACQUERIR UNE STATUE?**
 
-Voici la marche à suivre :
+ Voici la marche à suivre :
 
 \-
 
