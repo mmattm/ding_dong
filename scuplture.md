@@ -22,16 +22,12 @@ Pour devenir propriétaire de l’une de ces statues, il vous en coûtera CHF 13
 
 Voici la marche à suivre :
 
- 
-
 **ETAPE 1  
 COMMANDE**
 
 Commandez une sculpture en envoyant un courriel à l’adresse suivante : [eva.volery.vdn@ne.ch](mailto:eva.volery.vdn@ne.ch)
 
 Dans votre message, veuillez indiquer les éléments suivants : vos nom et prénom, votre entreprise, vos coordonnées et les emplacements souhaités pour votre statue.
-
- 
 
 **ETAPE 2  
 L’ŒUVRE**
@@ -42,8 +38,6 @@ Nous vous laissons le soin de prendre directement contact avec l’artiste de vo
 
 Ce dernier a carte blanche et peut laisser libre cours à son imagination, en évitant toutefois l’usage inapproprié de motifs religieux, racistes ou sexistes. Il peut utiliser les techniques artistiques de son choix afin de personnaliser la statue. Nous rappelons toutefois que cette dernière sera exposée à l’extérieur et ce, pendant une longue durée.
 
- 
-
 **ETAPE 3  
 L'EMPLACEMENT**
 
@@ -51,14 +45,10 @@ Au cours de la semaine du 13 mai 2019, les statues seront installées aux emplac
 
 Le transport de la statue et de la base en béton sera assuré par nos soins, de même que son enlèvement à l’issue de l’exposition.
 
- 
-
 **ETAPE 4  
 VERNISSAGE ET EXPOSITION**
 
 Afin de marquer l’ouverture de ce parcours de sculpture, un vernissage aura lieu le 24 mai 2019. L’exposition durera jusqu’au 18 septembre 2019 et se clôturera par un finissage festif.
-
- 
 
 **ETAPE 5  
 ET APRES?**
