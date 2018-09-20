@@ -12,7 +12,7 @@ Quelques données supplémentaires :
 
 La statue pèse 50 kg et la base 250 kg environ
 
-Elle est produite par Moser Polyester Sàrl \[hyperlien sur le site internet : [http://www.moser-polyester.ch/index.php/fr/](http://www.moser-polyester.ch/index.php/fr/ "http://www.moser-polyester.ch/index.php/fr/")
+Elle est produite par Moser Polyester Sàrl : [http://www.moser-polyester.ch/index.php/fr/](http://www.moser-polyester.ch/index.php/fr/ "http://www.moser-polyester.ch/index.php/fr/")
 
 Pour devenir propriétaire de l’une de ces statues, il vous en coûtera CHF 1350.– (tva incluse). Puis, il vous faudra trouver un artiste qui interviendra sur cette statue afin qu’elle se transforme en œuvre d’art.
 
