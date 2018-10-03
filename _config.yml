@@ -21,6 +21,7 @@ permalink: :title/
 sass:
   sass_dir: css
 
+exclude: ["Rakefile", "MIT-LICENSE", "README.md", "Gemfile", "Gemfile.lock"]
 
 defaults:
   -
