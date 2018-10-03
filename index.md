@@ -13,4 +13,6 @@ Nous sommes à la recherche de partenaires destinés à devenir les heureux prop
 
 Pour faire connaître ce parcours, différents moyens de communication seront mis en œuvre par la Ville et notamment un dépliant explicatif avec un plan qui sera largement distribué.
 
-\#dingdongneuchatel    
+\#dingdongneuchatel
+
+t
