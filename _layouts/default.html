@@ -46,7 +46,7 @@
             <nav class="text-uppercase mt-5 mt-lg-2 d-none d-lg-block">
 
                 {% for item in site.menus.header %}
-                <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% else %}text-primary{% endif %}" title="Go to {{ item.title }}" href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a></h1>
+                <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% else %}text-primary{% endif %}" title="Go to {{ item.title }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h1>
                 {% endfor %}
 
                 <div class="logos">
