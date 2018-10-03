@@ -15,4 +15,4 @@ Pour faire connaître ce parcours, différents moyens de communication seront mi
 
 \#dingdongneuchatel
 
-t
+ta
