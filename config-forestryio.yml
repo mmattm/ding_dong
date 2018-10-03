@@ -10,9 +10,9 @@
 ">
   <meta name="keywords" content="Neuchâtel, Art, Design, Exposition, Sculptures, 2019, Plein air">
   <meta name="author" content="Matthieu Minguet">
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="www.dingdongneuchatel.ch/config-forestryio.yml">
-  <link rel="alternate" type="application/rss+xml" title="DING DONG" href="www.dingdongneuchatel.ch/feed.xml">
+  <link rel="stylesheet" href="/ding_dong/css/main.css">
+  <link rel="canonical" href="www.dingdongneuchatel.ch/ding_dong/config-forestryio.yml">
+  <link rel="alternate" type="application/rss+xml" title="DING DONG" href="www.dingdongneuchatel.ch/ding_dong/feed.xml">
 </head>
 
 
@@ -99,7 +99,7 @@ email: your-email@domain.com
 description: 'Des artistes et des horloges en ville de Neuchâtel.
 
 '
-baseurl: ''
+baseurl: "/ding_dong"
 url: www.dingdongneuchatel.ch
 markdown: kramdown
 permalink: ":title/"
