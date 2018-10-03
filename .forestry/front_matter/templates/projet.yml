@@ -7,6 +7,5 @@ fields:
   name: title
   label: Title
 pages:
-- test.md
 - statue.md
 - contact.md
