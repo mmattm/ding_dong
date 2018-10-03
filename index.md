@@ -1,5 +1,6 @@
 ---
 title: Projet
+order: 1
 menu:
   header:
     weight: 1

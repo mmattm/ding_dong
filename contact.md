@@ -1,6 +1,7 @@
 ---
 title: Contact
 date: 2018-08-22 15:04:00 +0000
+order: 4
 menu:
   header:
     weight: 4

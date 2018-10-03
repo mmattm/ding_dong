@@ -45,8 +45,9 @@
             </div>
             <nav class="text-uppercase mt-5 mt-lg-2 d-none d-lg-block">
 
-                {% for item in site.menus.header %}
-                <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% else %}text-primary{% endif %}" title="Go to {{ item.title }}" href="{{ item.url }}">{{ item.title }}</a></h1>
+                {% assign sorted_pages = site.pages | sort:"order" %}
+                {% for page in sorted_pages %}
+                <h1 class="text-uppercase mb-0"><a class="{% if page.url == item.url %}text-secondary{% else %}text-primary{% endif %}" title="Go to {{ page.title }}" href="{{ page.url }}">{{ page.title }}</a></h1>
                 {% endfor %}
 
                 <div class="logos">

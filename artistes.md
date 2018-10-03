@@ -1,5 +1,6 @@
 ---
 title: Artistes
+order: 2
 menu:
   header:
     weight: 3
