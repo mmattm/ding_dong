@@ -19,6 +19,10 @@ Orélie Fuchs Chen (plasticienne)
 [oreliechenfuchs@gmail.com](mailto:oreliechenfuchs@gmail.com)  
 [www.oreliefuchs.jimdo.com]()
 
+Rosalie Evard (peintre)  
+[rosalie.evard@hotmail.com](mailto:rosalie.evard@hotmail.com)  
+[www.instagram.com/rosalie.evard](http://www.instagram.com/rosalie.evard)
+
 Nicolas Ischer (graphisme et multimédia)  
 [nicolasischer@hotmail.com](mailto:nicolasischer@hotmail.com)  
 [www.niklaus.design](http://www.niklaus.design)
