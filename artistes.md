@@ -8,7 +8,7 @@ menu:
 Pour donner la touche artistique à votre horloge, vous trouverez une liste non exhaustive d’artistes de la région prêts à prendre part au projet !
 
 Catherine Aeschlimann (plasticienne)  
-[Catherine.Aeschlimann@rpn.ch](mailto:Catherine.Aeschlimann@rpn.ch)  
+[jesuis@amnesik.ch](mailto:Catherine.Aeschlimann@rpn.ch)  
 [www.amnesik.ch](http://www.amnesik.ch)
 
 Kim Bachmann (plasticienne)  
