@@ -6,8 +6,6 @@ menu:
     weight: 2
 
 ---
-## test
-
 En forme d’horloge neuchâteloise, son cadran sera ouvert pour permettre aux promeneurs d’y passer la tête. Cette statue sera fabriquée en polyester renforcé avec des fibres de verre, matériau solide et léger, supportant les conditions climatiques extérieures. Elle mesurera approximativement 180cm de haut, 87cm de long et 33cm de large et sera vissée sur un socle en béton. Elle portera aussi à sa base une plaquette sur laquelle sera inscrit le nom/logo du propriétaire, le nom de l’artiste et des sponsors.
 
 Quelques données supplémentaires :
