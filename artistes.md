@@ -47,7 +47,7 @@ Maho (peintre)
 [ammauler@yahoo.fr](mailto:ammauler@yahoo.fr)  
 [www.art-maho.ch](http://www.art-maho.ch)
 
-Mandril (illustratrice)  
+Mandril (illustratreur)  
 [mandril@mandril.ch](mailto:mandril@mandril.ch)  
 [www.mandril.ch](http://www.mandril.ch/ "http://www.mandril.ch/")
 
