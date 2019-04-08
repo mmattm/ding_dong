@@ -11,11 +11,15 @@ Acquises par des entreprises, institutions et commerçants locaux, elles ont ét
 
 Conçue par l’artiste neuchâtelois Denis Roueche, sa forme fait hommage à l’un des fleurons de l’industrie de notre région.
 
-**Vernissage de l’exposition le 24 mai à 18h  
-avec discours et verrée, à l’Hôtel-de-Ville**
+\-
 
-**Finissage de l’exposition le 18 septembre à 18h  
-au Péristyle avec concert**
+Vernissage de l’exposition le 24 mai à 18h  
+avec discours et verrée, à l’Hôtel-de-Ville
+
+Finissage de l’exposition le 18 septembre à 18h  
+au Péristyle avec concert
+
+\-
 
 Des visites guidées en français sont prévues les samedis à 14h :  
 8 juin, 6 juillet, 10 août, 7 septembre.  
