@@ -5,12 +5,20 @@ menu:
     weight: 1
 
 ---
-La Ville de Neuchâtel, sous l’impulsion de plusieurs hôteliers et commerçants, propose, aux commerces, entreprises et institutions de la région de participer à un projet visant à faire (re)découvrir la ville aux habitants et aux touristes et à dynamiser la zone piétonne qui fête son 40e anniversaire en 2019.
+Du 24 mai au 18 septembre, parcourez la ville à la découverte d’une trentaine d’horloges plus grandes que nature!
 
-De mai à septembre 2019, nous souhaitons installer dans le centre-ville, une trentaine de statues en forme d’horloge neuchâteloise, conçues par l’artiste Denis Roueche, qui constitueront ensemble un parcours ludique à travers la ville.
+Acquises par des entreprises, institutions et commerçants locaux, elles ont été sublimées par des artistes de la région ! Partez à leurs rencontres et partagez ce moment sur Instagram (#dingdongneuch)!
 
-Nous sommes à la recherche de partenaires destinés à devenir les heureux propriétaires d’une (ou plusieurs) statue et qu’ils feront par la suite personnaliser par un artiste de leur propre choix, afin qu’elle devienne une véritable œuvre d’art.
+Conçue par l’artiste neuchâtelois Denis Roueche, sa forme fait hommage à l’un des fleurons de l’industrie de notre région.
 
-Pour faire connaître ce parcours, différents moyens de communication seront mis en œuvre par la Ville et notamment un dépliant explicatif avec un plan qui sera largement distribué.
+Vernissage de l’exposition le 24 mai à 18h  
+avec discours et verrée, à l’Hôtel-de-Ville
 
- #dingdongneuchatel
+Finissage de l’exposition le 18 septembre à 18h  
+au Péristyle avec concert
+
+Des visites guidées en français sont prévues les samedis à 14h :  
+8 juin, 6 juillet, 10 août, 7 septembre.  
+Départ depuis l’Hôtel-de-Ville, sans inscription, gratuit.
+
+Organisation: Ville de Neuchâtel avec la généreuse collaboration de Zuttion Construction SA
