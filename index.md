@@ -23,7 +23,7 @@ au Péristyle avec concert
 
 \-
 
-Des visites guidées en français sont prévues les samedis à 14h :  
+Des visites guidées en français sont prévues les samedis à 14h:  
 8 juin, 6 juillet, 10 août, 7 septembre.  
 Départ depuis l’Hôtel-de-Ville, sans inscription, gratuit.
 
