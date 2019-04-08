@@ -1,5 +1,5 @@
 ---
-title: Projet
+title: Parcours
 menu:
   header:
     weight: 1
