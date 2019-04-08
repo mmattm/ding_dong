@@ -13,6 +13,8 @@ Conçue par l’artiste neuchâtelois Denis Roueche, sa forme fait hommage à l�
 
 \-
 
+\-
+
 Vernissage de l’exposition  
 le 24 mai à 18h  
 avec discours et verrée, à l’Hôtel-de-Ville
