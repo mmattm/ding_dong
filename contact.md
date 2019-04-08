@@ -6,8 +6,6 @@ menu:
     weight: 4
 
 ---
-N’hésitez pas à nous demander des informations supplémentaires à propos de ce projet.
-
 Ville de Neuchâtel  
 Direction Culture, Sports, Tourisme  
 Faubourg de l'Hôpital 4  
