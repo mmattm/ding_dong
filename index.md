@@ -7,7 +7,7 @@ menu:
 ---
 Du 24 mai au 18 septembre, parcourez la ville à la découverte d’une trentaine d’horloges plus grandes que nature!
 
-Acquises par des entreprises, institutions et commerçants locaux, elles ont été sublimées par des artistes de la région ! Partez à leurs rencontres et partagez ce moment sur Instagram (#dingdongneuch)!
+Acquises par des entreprises, institutions et commerçants locaux, elles ont été sublimées par des artistes de la région! Partez à leurs rencontres et partagez ce moment sur Instagram (#dingdongneuch)!
 
 Conçue par l’artiste neuchâtelois Denis Roueche, sa forme fait hommage à l’un des fleurons de l’industrie de notre région.
 
