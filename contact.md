@@ -13,6 +13,7 @@ CH - 2000 Neuchâtel
 032 717 70 80  
 [eva.volery.vdn@ne.ch](mailto:lena.brina@ne.ch)
 
+
 <div class="logos">
   <div class="item-logo">
   <a href="https://www.neuchatelville.ch/fr/" target="_blank" class="my-4 mr-1 d-block pl-2">
