@@ -22,7 +22,7 @@ CH - 2000 Neuchâtel
   </div>
   <div class="item-logo">
     <a href="https://www.neuchatelville.ch/fr/" target="_blank" class="my-4 mr-1 d-block pl-2">
-      <img src="{{ site.baseurl }}/css/assets/logos/neuchatel.svg" width="90" height="auto" alt="Ville de Neuchatel">
+      <img src="{{ site.baseurl }}/css/assets/logos/neuchatel.png" width="90" height="auto" alt="Ville de Neuchatel">
     </a>
   </div>
   <div class="item-logo">
