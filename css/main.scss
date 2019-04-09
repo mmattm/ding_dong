@@ -98,7 +98,7 @@ nav {
 @include media-breakpoint-up(sm) {
   html {
     font-size: 0.9rem;
-  } 
+  }
 
   p {
     font-size: 1.3rem;
@@ -124,4 +124,9 @@ nav {
   #navigation {
     height: 100%;
   }
+}
+
+.item-logo {
+  height: 80px;
+  float: left;
 }
