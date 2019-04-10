@@ -11,6 +11,8 @@ Acquises par des entreprises, institutions et commerçants locaux, elles ont ét
 
 Conçue par l’artiste neuchâtelois Denis Roueche, sa forme fait hommage à l’un des fleurons de l’industrie de notre région.
 
+\-
+
 Vernissage de l’exposition  
 le 24 mai à 18h  
 avec discours et verrée, à l’Hôtel-de-Ville
