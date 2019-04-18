@@ -1,5 +1,5 @@
 ---
-title: Projet
+title: Statue
 menu:
   header:
     weight: 2
