@@ -2,7 +2,7 @@
 title: Parcours
 menu:
   header:
-    weight: 1
+    weight: 2
 
 ---
 Du 24 mai au 18 septembre, parcourez la ville à la découverte d’une trentaine d’horloges plus grandes que nature!
