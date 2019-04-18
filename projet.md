@@ -10,3 +10,5 @@ En forme d’horloge neuchâteloise, la statue Ding Dong est fabriquée en polye
 Les indications de la plaquette comportent le nom de l’œuvre si elle existe, le nom de l’artiste et celui du propriétaire.
 
 ![](untitled.82_A.jpg)
+
+![](untitled.85_A.jpg)
