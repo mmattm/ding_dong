@@ -1,5 +1,5 @@
 ---
-title: Projet
+title: Statue
 
 ---
 Dès début 2018, la Ville de Neuchâtel, sous l’impulsion de plusieurs hôteliers et commerçants, a mis sur pied ce projet artistique et collaboratif qu’est Ding Dong. Grâce à 28 entreprises et institutions de la région neuchâteloise, ce projet a pu se concrétiser! Chacune a choisi un.e artiste qui eu pour tâche de transformer cette statue en œuvre d’art unique!
