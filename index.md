@@ -6,26 +6,8 @@ menu:
     title: Statue
 
 ---
-Du 24 mai au 18 septembre, parcourez la ville à la découverte d’une trentaine d’horloges plus grandes que nature!
+Dès début 2018, la Ville de Neuchâtel, sous l’impulsion de plusieurs hôteliers et commerçants, a mis sur pied ce projet artistique et collaboratif qu’est Ding Dong. Grâce à 28 entreprises et institutions de la région neuchâteloise, ce projet a pu se concrétiser! Chacune a choisi un.e artiste qui eu pour tâche de transformer cette statue en œuvre d’art unique!
 
-Acquises par des entreprises, institutions et commerçants locaux, elles ont été sublimées par des artistes de la région! Partez à leurs rencontres et partagez ce moment sur Instagram (#dingdongneuch)!
+En forme d’horloge neuchâteloise, la statue Ding Dong est fabriquée en polyester renforcé en fibres de verre, matériau solide et léger, supportant les conditions climatiques extérieures. Produite par Moser Polyester SA, elle mesure avec sa base 190cm et pèse un peu moins de 200kg.
 
-Conçue par l’artiste neuchâtelois Denis Roueche, sa forme fait hommage à l’un des fleurons de l’industrie de notre région.
-
-\-
-
-Vernissage de l’exposition  
-le 24 mai à 18h  
-avec discours et verrée, à l’Hôtel-de-Ville
-
-Finissage de l’exposition  
-le 18 septembre à 18h  
-au Péristyle avec concert
-
-\-
-
-Des visites guidées en français sont prévues les samedis à 14h:  
-8 juin, 6 juillet, 10 août, 7 septembre.  
-Départ depuis l’Hôtel-de-Ville, sans inscription, gratuit.
-
-Organisation: Ville de Neuchâtel
+Les indications de la plaquette comportent le nom de l’œuvre si elle existe, le nom de l’artiste et celui du propriétaire.
