@@ -1,14 +1,1 @@
----
-header:
-- weight: 4
-  url: www.dingdongneuchatel.ch/contact
-  title: Contact
-- weight: 3
-  url: www.dingdongneuchatel.ch/parcours
-  title: Parcours
-- weight: 1
-  url: www.dingdongneuchatel.ch
-  title: Projet
-- weight: 2
-  url: www.dingdongneuchatel.ch/statue
-  title: Statue
+--- {}
