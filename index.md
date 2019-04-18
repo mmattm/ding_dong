@@ -3,6 +3,7 @@ title: Projet
 menu:
   header:
     weight: 2
+    title: Statue
 
 ---
 Du 24 mai au 18 septembre, parcourez la ville à la découverte d’une trentaine d’horloges plus grandes que nature!
