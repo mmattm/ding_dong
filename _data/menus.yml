@@ -1,8 +1,5 @@
 ---
 header:
 - weight: 1
-  url: www.dingdong.ch/projet
+  url: www.dingdong.ch
   title: Projet
-- url: http://www.dingdongneuchatel.ch/statue
-  weight: 2
-  title: Statue
