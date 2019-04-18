@@ -8,3 +8,5 @@ Dès début 2018, la Ville de Neuchâtel, sous l’impulsion de plusieurs hôtel
 En forme d’horloge neuchâteloise, la statue Ding Dong est fabriquée en polyester renforcé en fibres de verre, matériau solide et léger, supportant les conditions climatiques extérieures. Produite par Moser Polyester SA, elle mesure avec sa base 190cm et pèse un peu moins de 200kg.
 
 Les indications de la plaquette comportent le nom de l’œuvre si elle existe, le nom de l’artiste et celui du propriétaire.
+
+![](untitled.82_A.jpg)

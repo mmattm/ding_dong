@@ -6,5 +6,5 @@ fields:
   name: title
   label: Title
 pages:
-- contact.md
 - projet.md
+- contact.md
