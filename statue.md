@@ -12,3 +12,5 @@ Cette exposition est visible du 24 mai au 18 septembre 2019 et prend part aux fe
 En forme d’horloge neuchâteloise, la statue Ding Dong est fabriquée en polyester renforcé en fibres de verre, matériau solide et léger, supportant les conditions climatiques extérieures. Produite par Moser Polyester SA, elle mesure avec sa base 190 cm et pèse un peu moins de 200 kg.
 
 Les indications de la plaquette comportent le nom de l’œuvre si elle existe, le nom de l’artiste et celui du propriétaire.
+
+![](/uploads/untitled.82_A.jpg)![](/uploads/untitled.85_A.jpg)
