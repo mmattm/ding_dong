@@ -7,6 +7,8 @@ menu:
 ---
 ![](/uploads/Carte.jpg)
 
+[Carte](/uploads/Carte "Carte")
+
 Parcours des statues Ding Dong avec artistes et propriétaires
 
 1  
