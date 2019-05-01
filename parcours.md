@@ -22,7 +22,8 @@ Mélanie Armenti
 IBC Insurance Broking and Consulting SA  
 Quai Ostervald
 
-4Mandril  
+4  
+Mandril  
 Mutuelle Neuchâteloise  
 Assurance Maladie  
 Quai Ostervald
