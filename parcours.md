@@ -84,7 +84,7 @@ Vicario Consulting SA
 Rue de l'Hôpital
 
 16  
-Nicolas Ischer  
+Nicolas Ischer  
 Chambre Neuchâteloise du Commerce et de l’Industrie  
 Temple du Bas
 
