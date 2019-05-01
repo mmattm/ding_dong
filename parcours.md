@@ -5,7 +5,7 @@ menu:
     weight: 2
 
 ---
-[Carte](/uploads/Carte "Carte")
+![](/uploads/Carte.jpg)
 
 Parcours des statues Ding Dong avec artistes et propriétaires
 
