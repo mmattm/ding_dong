@@ -62,138 +62,107 @@ Ivan Moscatelli
 Ctésias SA  
 En bas de la rue du Château
 
-12	Atelier-galerie L’Ateul  
+12  
+Atelier-galerie L’Ateul  
 Parking du Seyon SA  
 Passage des Boucheries
 
-13
-
+13  
 Philippe Baro  
 Video 2000  
 Rue du Seyon 30
 
-14
-
+14  
 Zaline  
 PLR neuchâtelois  
 Place du Grand-Mazel
 
-15
-
+15  
 Véronique Borens  
 Vicario Consulting SA  
 Rue de l'Hôpital
 
-16	Nicolas Ischer
+16  
+Nicolas Ischer  
+Chambre Neuchâteloise du Commerce et de l’Industrie  
+Temple du Bas
 
-Chambre Neuchâteloise du Commerce
+17  
+Philippe Baro  
+Video 2000  
+Temple du Bas
 
-et de l’Industrie
+18  
+Ada Massaro  
+BPS (Suisse), Banca Popolare di Sondrio  
+Rue de l'Hôpital
 
-	Temple du Bas
+19  
+Nicolas Bamert  
+Video 2000  
+Rue de l'Hôpital
 
-17	Philippe Baro
+20  
+Yvan Besomi  
+Helvetia Assurances  
+Rue du Concert
 
-Video 2000
+21  
+Audrey Werthmüller  
+La Maladière Centre  
+Rue du Concert
 
-	Temple du Bas
+22  
+Ivan Moscatelli  
+avec la classe 12FR124 de Corcelles-Cormondrèche  
+Axa  
+Rue St-Maurice
 
-18	Ada Massaro
+23  
+Muga et Ghost  
+Association Chocolatissimo  
+Rue de l'Hôtel-de-Ville
 
-BPS (Suisse), Banca Popolare di Sondrio
+24  
+Virginie Bridy  
+Banque CIC  
+Faubourg du Lac 5A
 
-	Rue de l'Hôpital
+25  
+Olivia Dall’Omo  
+Hôtel Beaulac  
+Esplanade Léopold-Robert
 
-19	Nicolas Bamert
-
-Video 2000
-
-	Rue de l'Hôpital
-
-20	Yvan Besomi
-
-Helvetia Assurances
-
-	Rue du Concert
-
-21	Audrey Werthmüller
-
-La Maladière Centre
-
-	Rue du Concert
-
-22	Ivan Moscatelli
-
-avec la classe 12FR124
-
-de Corcelles-Cormondrèche
-
-Axa
-
-	Rue St-Maurice
-
-23	Muga et Ghost
-
-Association Chocolatissimo
-
-	Rue de l'Hôtel-de-Ville
-
-24	Virginie Bridy
-
-Banque CIC
-
-	Faubourg du Lac 5A
-
-25	Olivia Dall’Omo
-
-Hôtel Beaulac
-
-	Esplanade Léopold-Robert
-
-26	Service des Parcs et Promenades
-
-de la Ville de Neuchâtel
-
+26  
+Service des Parcs et Promenades de la Ville de Neuchâtel  
 Au Jardin Anglais
 
-27	Mr. design – Mélissa Roth
-
-Direction de la Culture de la Ville
-
-de Neuchâtel
-
+27  
+Mr. design – Mélissa Roth  
+Direction de la Culture de la Ville de Neuchâtel  
 Au Jardin DuPeyrou
 
-28	Kesh
-
-Lionel Capelli, avocat  /  
-
-Sabrina Streit, Whyness
-
+28  
+Kesh  
+Lionel Capelli, avocat   / Sabrina Streit, Whyness  
 Au Jardin Anglais
 
-29	Denis Roueche
+29  
+Denis Roueche  
+Hôtel des Arts  
+Rue J.-L. Pourtalès
 
-Hôtel des Arts
-
-	Rue J.-L. Pourtalès
-
-30	Denis Roueche
-
-Association Romande des Hôteliers,
-
-section Neuchâtel Jura
-
+30  
+Denis Roueche  
+Association Romande des Hôteliers, section Neuchâtel Jura  
 Au Jardin Anglais
 
-31	Denis Roueche
-
-Hôtel Alpes et Lac
-
+31  
+Denis Roueche  
+Hôtel Alpes et Lac  
 Sur la terrasse de l'hôtel
 
-32	Prune Simon-Vermot
-
-Groupe Zuttion SA
-
+32  
+Prune Simon-Vermot  
+Groupe Zuttion SA  
 Dans la gare CFF
