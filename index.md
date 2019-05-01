@@ -16,8 +16,7 @@ Conçue par l’artiste neuchâtelois Denis Roueche, sa forme fait hommage à l�
 
 Vernissage de l’exposition  
 le 24 mai à 18h  
-à l’Hôtel-de-Ville  
-avec discours et verrée
+à l’Hôtel-de-Ville avec discours et verrée
 
 Finissage de l’exposition  
 le 18 septembre à 18h  
@@ -29,8 +28,8 @@ Des visites guidées en français sont prévues les samedis à 14h:
 8 juin, 6 juillet, 10 août, 7 septembre.  
 Départ depuis l’Hôtel-de-Ville, sans inscription, gratuit.
 
-Organisation: Ville de Neuchâtel
-
 ![](/uploads/untitled.82_A.jpg)
 
 ![](/uploads/untitled.85_A.jpg)
+
+Organisation: Ville de Neuchâtel
