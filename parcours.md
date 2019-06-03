@@ -24,7 +24,7 @@ Pharmacie Bugnon
 Quai Ostervald
 
 3  
-Mélanie Armenti  
+MAR-Mélanie Armenti  
 IBC Insurance Broking and Consulting SA  
 Quai Ostervald
 
