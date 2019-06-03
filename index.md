@@ -30,5 +30,5 @@ Départ depuis l’Hôtel-de-Ville, sans inscription, gratuit.
 
 \-
 
-Organisation:  
+Organisation  
 Ville de Neuchâtel
